@@ -1,0 +1,14 @@
+.text-body {
+  width: 256px;
+  height: 57px;
+  text-align: center;
+}
+
+.text-body p {
+  font-family: "Outfit", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 400;
+  font-style: normal;
+  color: #7d889e;
+  font-size: 15px;
+}
