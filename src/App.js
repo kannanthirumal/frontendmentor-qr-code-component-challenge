@@ -1,13 +1,13 @@
 import "./App.css";
-import Attribution from "./components/Attribution";
+// import Attribution from "./components/Attribution";
 import Container from "./components/Container";
 
 function App() {
   return (
-    <div className="app">
+    <main className="app">
       <Container />
-      <Attribution />
-    </div>
+      {/* <Attribution /> */}
+    </main>
   );
 }
 
