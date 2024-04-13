@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/kannanthirumal/frontendmentor-qr-code-component-challeng/static/css/main.937c5583.css",
+    "main.js": "/kannanthirumal/frontendmentor-qr-code-component-challeng/static/js/main.9766a16a.js",
+    "index.html": "/kannanthirumal/frontendmentor-qr-code-component-challeng/index.html",
+    "main.937c5583.css.map": "/kannanthirumal/frontendmentor-qr-code-component-challeng/static/css/main.937c5583.css.map",
+    "main.9766a16a.js.map": "/kannanthirumal/frontendmentor-qr-code-component-challeng/static/js/main.9766a16a.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.937c5583.css",
+    "static/js/main.9766a16a.js"
+  ]
+}
